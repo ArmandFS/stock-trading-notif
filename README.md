@@ -26,7 +26,20 @@ You will need to import a few libraries like so:
 The request library is used for getting data and information from external APIs, and also establish connections with.
 
 You will also need to install the twilio rest library to connect python/your environment. 
-The links for all the APIs will be in a different section!.
+The links for all the APIs:
+
+Twilio:
+https://www.twilio.com
+
+Alphavantage:
+https://www.alphavantage.co
+
+News API:
+https://newsapi.org
+
+
+
+
 
 
 
