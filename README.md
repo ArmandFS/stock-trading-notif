@@ -17,7 +17,7 @@ If there is a difference in closing stock price, then depending on the situation
 
 
 
-You will need to import a few libraries like so:
+You will need to import a few libraries like so to get this python applicaiton running.
 
 
 ![image](https://user-images.githubusercontent.com/68105213/217293776-77330ef0-c08c-4b53-98ac-dcec72e1a386.png)
